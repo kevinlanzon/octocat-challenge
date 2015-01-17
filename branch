@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Repositories start on a branch called master. You can create a copy of this branch including all commit history using the git branch command. This new branch allows you to create another instance of data to work on that runs parallel to the master branch. It is possible to switch between branches and to merge the commits to and from other branches.
